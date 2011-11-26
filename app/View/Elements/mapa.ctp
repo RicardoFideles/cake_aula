@@ -1,0 +1,5 @@
+<section class="group6">
+	<h3>Veja como Chegar</h3>
+	
+<iframe width="800" height="550" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=Avenida+Atl%C3%A2ntica,+1020+-+Copacabana+-+Rio+de+Janeiro+-+RJ&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=35.631106,86.572266&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Av.+Atl%C3%A2ntica,+1020+-+Leme,+Rio+de+Janeiro,+22010-000,+Brasil&amp;t=m&amp;z=14&amp;ll=-22.964671,-43.173331&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=Avenida+Atl%C3%A2ntica,+1020+-+Copacabana+-+Rio+de+Janeiro+-+RJ&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=35.631106,86.572266&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Av.+Atl%C3%A2ntica,+1020+-+Leme,+Rio+de+Janeiro,+22010-000,+Brasil&amp;t=m&amp;z=14&amp;ll=-22.964671,-43.173331" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
+</section>
